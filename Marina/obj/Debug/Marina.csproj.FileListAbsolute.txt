@@ -1,0 +1,14 @@
+C:\Users\valik\source\repos\Marina\Marina\bin\Debug\Marina.exe.config
+C:\Users\valik\source\repos\Marina\Marina\bin\Debug\Marina.exe
+C:\Users\valik\source\repos\Marina\Marina\bin\Debug\Marina.pdb
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.csprojAssemblyReference.cache
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form1.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Properties.Resources.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.csproj.GenerateResource.cache
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.exe
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.pdb
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form2.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form3.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form4.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form5.resources
+C:\Users\valik\source\repos\Marina\Marina\obj\Debug\Marina.Form6.resources
